@@ -20,7 +20,7 @@ Handling Implicit Waits to manage synchronization issues.
 🚀 How to Run
 - Clone the repository:
 
-Bash
+- Bash
 ```
 git clone [https://github.com/your-username/selenium-java-locators-practice.git](https://github.com/your-username/selenium-java-locators-practice.git)
 git clone https://github.com/your-username/selenium-java-locators-practice.git
@@ -29,7 +29,7 @@ git clone [https://github.com/your-username/selenium-java-locators-practice.git]
 Setup Driver:
 Ensure you have ChromeDriver installed. Update the path in the script to match your local directory:
 
-Java
+- Java
 ```System.setProperty("webdriver.chrome.driver", "D:/Your/Path/To/chromedriver.exe");```
-Execution:
+- Execution:
 Run the Locators.java file as a Java Application in your IDE (Eclipse, IntelliJ, or VS Code).
